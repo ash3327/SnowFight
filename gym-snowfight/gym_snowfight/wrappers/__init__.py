@@ -1,0 +1,3 @@
+from gym_snowfight.wrappers.relative_position import RelativePosition
+from gym_snowfight.wrappers.compactify import Compactify
+from gym_snowfight.wrappers.compactify_more import CompactifyMore
